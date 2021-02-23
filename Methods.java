@@ -1,6 +1,7 @@
 import java.util.*;
 
 class Main {
+    
     public static void main(String[] args) {
         System.out.println("check if palindrome, racecar: " + isPalindrome("racecar") + ", hello: " + isPalindrome("hello"));
         System.out.println("check if triangular number, 50: " + isTriangularNumber(50) + ", 55: " + isTriangularNumber(55));
