@@ -1,2 +1,2 @@
 # Practical-Java
-Java methods and I/O
+Use the templates at will.
