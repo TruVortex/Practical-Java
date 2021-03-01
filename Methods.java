@@ -114,5 +114,4 @@ class Main {
     public static String reverseStr(String str) {
         return new StringBuilder(str).reverse().toString();
     }
-
 }
