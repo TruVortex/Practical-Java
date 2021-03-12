@@ -98,9 +98,9 @@ class Main {
 
     public static int gcdArr(int[] arr) {
         int result = 0;
-        for (int element: arr){
+        for (int element : arr){
             result = gcd(result, element);
-            if(result == 1) {
+            if (result == 1) {
                return 1;
             }
         }
